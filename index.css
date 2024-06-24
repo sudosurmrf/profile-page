@@ -21,7 +21,9 @@ h2 {
 img {
   height: 500px;
   width: 500px;
-  position: fixed;
+  float: left;
+  margin: 5px;
+  margin-top: -5px;
 }
 
 body{
@@ -32,4 +34,24 @@ body{
 
 main {
   color: white;
+}
+section {
+  background:  rgba(10, 189, 165, 0.45);
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  text-wrap:balance;
+  font-size: 20px;
+}
+
+p2 {
+  font-size: 30px;
+  text-align: justify;
+  text-wrap: balance;
 }
