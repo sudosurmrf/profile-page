@@ -22,7 +22,7 @@ h2 {
   
 }
 
-img {
+#headshot {
   height: 500px;
   width: 500px;
   float: left;
@@ -45,7 +45,7 @@ main {
   background:  rgba(10, 189, 165, 0.45);
   margin-left: 20px;
   margin-top: 10px;
-  margin-right: 600px;
+  margin-right: 300px;
   border-radius: 10px;
 }
 
@@ -55,13 +55,13 @@ h1 {
 
 p {
   text-wrap:balance;
-  text-align: justify;
+  text-align: right;
   font-size: 20px;
 }
 
 p2 {
   font-size: 30px;
-  text-wrap: balance;
+  text-wrap: right;
 }
 
 #more-info {
@@ -75,3 +75,20 @@ p2 {
   border-radius: 30px;
 }
 
+#prog-pic {
+  float: left;
+}
+
+h3 {
+  font-size: 40px;
+  background: rgba(160, 7, 190, 0.75);
+}
+
+#p3 {
+  font-size: 25px;
+  background: rgba(160, 7, 190, 0.75);
+}
+
+hr {
+  font-size: 20px;
+}
