@@ -4,6 +4,10 @@ nav {
   opacity: 80%;
   text-align: center;
   border-radius: 10px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  
+  
 }
 
 a {
@@ -34,11 +38,15 @@ body{
 
 main {
   color: white;
+  text-align: center;
 }
-section {
+
+#bio {
   background:  rgba(10, 189, 165, 0.45);
   margin-left: 20px;
   margin-top: 10px;
+  margin-right: 600px;
+  border-radius: 10px;
 }
 
 h1 {
@@ -47,11 +55,23 @@ h1 {
 
 p {
   text-wrap:balance;
+  text-align: justify;
   font-size: 20px;
 }
 
 p2 {
   font-size: 30px;
-  text-align: justify;
   text-wrap: balance;
 }
+
+#more-info {
+  font-size: 40px;
+  text-align: center; 
+  margin-top: 400px;
+  margin-left: 50vw;
+  height: 50px;
+  width: 400px;
+  background: rgba(10, 189, 165, 0.45);
+  border-radius: 30px;
+}
+
