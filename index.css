@@ -1,0 +1,94 @@
+nav {
+  font-size: 40px;
+  background-color: blue;
+  opacity: 80%;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  
+  
+}
+
+a {
+  color: white;
+  
+}
+
+h2 {
+  color: white;
+  text-align: left;
+  font-size: 50px;
+  
+}
+
+#headshot {
+  height: 500px;
+  width: 500px;
+  float: left;
+  margin: 5px;
+  margin-top: -5px;
+}
+
+body{
+  background-image: url(2140912.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+main {
+  color: white;
+  text-align: center;
+}
+
+#bio {
+  background:  rgba(10, 189, 165, 0.45);
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-right: 300px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+p {
+  text-wrap:balance;
+  text-align: right;
+  font-size: 20px;
+}
+
+p2 {
+  font-size: 30px;
+  text-wrap: right;
+}
+
+#more-info {
+  font-size: 40px;
+  text-align: center; 
+  margin-top: 400px;
+  margin-left: 40vw;
+  height: 50px;
+  width: 400px;
+  background: rgba(10, 189, 165, 0.45);
+  border-radius: 30px;
+}
+
+#prog-pic {
+  float: left;
+}
+
+h3 {
+  font-size: 40px;
+  background: rgba(160, 7, 190, 0.75);
+}
+
+#p3 {
+  font-size: 25px;
+  background: rgba(160, 7, 190, 0.75);
+}
+
+hr {
+  font-size: 20px;
+}
